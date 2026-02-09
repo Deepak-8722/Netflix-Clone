@@ -257,7 +257,7 @@ footer {
 }
 
 .questions {
-    margin:50px 0 0 0px;
+    margin:50px 0 50px 180px;
     padding-left: 50px;
     color:white;
     font-weight: bold;
@@ -283,6 +283,7 @@ footer {
     font-family: poppins;
     text-align:center;
     margin-bottom:50px;
+    margin-top: 50px;
     
 }
 
